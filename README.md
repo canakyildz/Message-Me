@@ -5,4 +5,4 @@ PREVIEW VIDEO HERE
 
 ![Image](https://j.gifs.com/6X4oQL.gif)
 
-https://www.youtube.com/watch?v=j-T8rhObXfA
+![Image](https://www.youtube.com/watch?v=j-T8rhObXfA)
