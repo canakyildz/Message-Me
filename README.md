@@ -3,9 +3,8 @@ Chatting app written in Swift used method of MVVM with Firebase
 
 PREVIEW VIDEO HERE 
 
-![Image](https://j.gifs.com/6X4oQL.gif)
 
-[![MessageMe](http://img.youtube.com/vi/-T8rhObXfA/0.jpg)](http://www.youtube.com/watch?v=-T8rhObXfA "MessageMe")
+[![Image](http://img.youtube.com/vi/-T8rhObXfA/0.jpg)](http://www.youtube.com/watch?v=-T8rhObXfA "MessageMe")
 
 
 
