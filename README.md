@@ -5,4 +5,8 @@ PREVIEW VIDEO HERE
 
 ![Image](https://j.gifs.com/6X4oQL.gif)
 
-![Image](https://www.youtube.com/watch?v=j-T8rhObXfA)
+[![MessageMe](http://img.youtube.com/vi/-T8rhObXfA/0.jpg)](http://www.youtube.com/watch?v=-T8rhObXfA "MessageMe")
+
+
+
+https://www.youtube.com/watch?v=j-T8rhObXfA
